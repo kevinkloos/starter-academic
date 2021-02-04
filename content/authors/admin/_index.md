@@ -26,7 +26,7 @@ education:
   courses:
     - course: MSc Statistics and Data Science + EMOS
       institution: Leiden University
-      year: 2025
+      year: 2021
     - course: BSc Systems Engineering, Policy Analysis and Management
       institution: Delft University of Technology
       year: 2018
