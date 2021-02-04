@@ -1,48 +1,47 @@
 ---
 title: Kevin Kloos
-role: Assistant Methodology and Statistics
+role: Student Statistical Science
 bio: Soon a graduate in Statistics and Data Science
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistics
+  - Classification
+  - Sports
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://instagram.com/kevinkloos
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kevinkloos
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kevin-kloos-9ab524179/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Leiden University
+    url: https://www.universiteitleiden.nl/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MSc Statistics and Data Science + EMOS
+      institution: Leiden University
+      year: 2025
+    - course: BSc Systems Engineering, Policy Analysis and Management
+      institution: Delft University of Technology
+      year: 2018
+    - course: VWO Natuur en Techniek
+      institution: "Visser 't Hooft Lyceum "
+      year: 2015
+email: kevinkloos@hotmail.com
 superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Kevin Kloos, 23 years old from Katwijk, the Netherlands. In February 2021, I obtained my master's degree in Statistical Science at Leiden University. In the program, you can choose from different specialisations and I decided to follow the Data Science track. Besides Statistical Science, I also obtained the European Master of Official Statistics (EMOS): an extra degree on top of my master's degree. The EMOS program connected very well to my bachelor in Systems Engineering, Policy Analysis and Management at Delft University of Technology. In the near future, I plan to follow a PhD program in Statistics and Data Science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My working experience lays in teaching. I used to be a tutor for middle school and high school students for every subject I had a bit of knowledge. The last years at university, I was a Teaching Assistant for some master's courses. 
+
+In my spare time, I like to play sports and games. From Football to FIFA to Fantasy Premier League: I do it and I follow it. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
